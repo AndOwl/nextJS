@@ -1,0 +1,7 @@
+{
+  "baseURL": "http://api.tvmaze.com/",
+  "timeout": 3000,
+  "https": true,
+  "withCredentials": false,
+  "responseType": "json"
+}
